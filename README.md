@@ -7,3 +7,7 @@ Download [the workflow](https://github.com/Jamesits/alfred-workflow-telegram/blo
 ## Author
 
 James Swineson
+
+## Supporter
+
+Maemo Lee
